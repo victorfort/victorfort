@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Me chamo Victor Fortunato👋
 
 <!--
 **victorfort/victorfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Atualmente trabalho apenas em projetos próprios e estou em busca de me colocar no mercado.
+- 🌱 Estou estudando Front-end com React
+- 📫 Meu e-mail para contato: victor.and.fortunato@gmail.com
