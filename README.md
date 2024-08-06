@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalho apenas em projetos próprios e estou em busca de me colocar no mercado.
 - 🌱 Estou estudando Front-end com React
 - 📫 Meu e-mail para contato: victor.and.fortunato@gmail.com
+- Clique aqui para gerar seu curriculo básico gratuitamente 👉https://victorfort.github.io/GeraCurriculo/👈
